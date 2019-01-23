@@ -1,5 +1,7 @@
 # CSS-Spinner
 
+https://loading.io/spinner/
+
 [Live Demo](https://loading.io/css/)
 
 collection of 12 small, elegant pure css spinners for your website loading animation. 
